@@ -1,48 +1,48 @@
-#The Tracker
+# The Tracker
 
-##Show social & ecom numbers
+## Show social & ecom numbers
 
-###Flexible counter to display any of your data supported by a tolta.co tracker on a TidByt.
+### Flexible counter to display any of your data supported by a tolta.co tracker on a TidByt.
 
 Born out of a deep desire to track my Ghost site data.
 Instagram is not working on tolta.co and has not been for some time. Sorry! Nothing I can do about that.
 I still added the instagram icon as a tease because it looks great.
 
-##Site - Feature - Status
+## Site - Feature - Status
 
-###Twitter
+### Twitter
 Followers - working
 
-###Instagram
+### Instagram
 Followers - NOT working
 
-###YouTube
+### YouTube
 Followers - working
 Views - working
 
-###Ghost
+### Ghost
 Total Members - working
 Free Members - working
 Paying Members - working
 MRR - working 
 
-###Chart Mogul
+### Chart Mogul
 MRR - working
 ARR - working
 ARPU - working
 MRR churn % - working (won't show % sign)
 Customers - working
 
-###Gumroad
+### Gumroad
 Needs testing
 
-###Paddle
+### Paddle
 Needs testing
 
-###Clubhouse
+### Clubhouse
 Needs testing
 
-##Ongoing
+## Ongoing
 
 Happy to add any additonal icons! Most I am using are 16px, very few are 12px. Feel free to send me your desired icon in PNG or Base64.
 Twitter asks to not use their icon in any settings smaller than 16px, so a smaller Twitter icon is off the table.
