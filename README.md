@@ -6,7 +6,7 @@
 
 Twitter, YouTube, Ghost, Chart Mogul, Gumroad, Paddle, and Clubhouse.
 
-Note that tolta.co refreshes data every 30 minutes.
+Data refreshes every 30 minutes.
 
 ## Flexible layout, number formatting, colors, icons, and font
 
