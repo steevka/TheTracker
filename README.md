@@ -4,7 +4,7 @@
 
 ### Flexible counter to display any of your data supported by a tolta.co tracker on a TidByt.
 
-Born out of a deep desire to track my Ghost site data.
+Twitter, YouTube, Ghost, Chart Mogul, Gumroad, Paddle, and Clubhouse.
 
 Instagram is not working on tolta.co and has not been for some time. Sorry! Nothing I can do about that.
 
