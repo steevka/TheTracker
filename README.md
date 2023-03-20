@@ -10,6 +10,8 @@ Instagram is not working on tolta.co and has not been for some time. Sorry! Noth
 
 I still added the instagram icon as a tease because it looks great.
 
+## Flexible layout, number formatting, colors, icons, and font
+
 ![Screenshot1](_img1.png)
 
 ![Screenshot2](_img2.png)
