@@ -64,7 +64,7 @@ Needs testing
 
 Happy to add any additonal icons! Most I am using are 16px, very few are 12px. Feel free to send me your desired icon in PNG or Base64.
 
-Twitter asks to not use their icon in any settings smaller than 16px, so a smaller Twitter icon is off the table.
+Twitter politely asks to not use their icon in any setting smaller than 16px, so a smaller Twitter icon is off the table.
 
 If you want to find your own icon, I suggest icons8.com's Tiny Color collection: https://icons8.com/icons/tiny-color.
 
