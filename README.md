@@ -1,8 +1,8 @@
 # The Tracker
 
-## Show social & ecom numbers
-
 ### Flexible counter to display any of your data supported by a tolta.co tracker on a TidByt.
+
+## Show social & ecom numbers
 
 Twitter, YouTube, Ghost, Chart Mogul, Gumroad, Paddle, and Clubhouse.
 
