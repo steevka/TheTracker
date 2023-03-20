@@ -1,6 +1,6 @@
 # The Tracker
 
-### Flexible counter to display any of your data supported by a tolta.co tracker on a TidByt.
+### Flexible TidByt counter to display any of your data supported by a tolta.co tracker.
 
 ## Show social & ecom numbers
 
