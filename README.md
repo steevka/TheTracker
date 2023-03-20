@@ -6,7 +6,7 @@
 
 Twitter, YouTube, Ghost, Chart Mogul, Gumroad, Paddle, and Clubhouse.
 
-Create your account and tracker at https://tolta.co/ and use your tracker ID.
+To use this app, create an account on https://tolta.co/. Use one tracker ID per Tidbyt screen.
 
 Instagram has not been working on tolta.co for some time. Sorry! Nothing I can do about that. The logo looks sexy so I kept it.
 
