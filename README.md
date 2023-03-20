@@ -6,6 +6,8 @@
 
 Twitter, YouTube, Ghost, Chart Mogul, Gumroad, Paddle, and Clubhouse.
 
+Create your account and tracker at https://tolta.co/ and use your tracker ID.
+
 Instagram has not been working on tolta.co for some time. Sorry! Nothing I can do about that. The logo looks sexy so I kept it.
 
 Note that tolta.co refreshes data every 30 minutes.
