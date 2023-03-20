@@ -12,6 +12,10 @@ I still added the instagram icon as a tease because it looks great.
 
 ![Screenshot1](_img1.png)
 
+![Screenshot2](_img2.png)
+
+![Screenshot3](_img3.png)
+
 ## Site - Feature - Status
 
 ### Twitter
