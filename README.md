@@ -1,6 +1,6 @@
 # The Tracker
 
-### Flexible TidByt counter to display any of your data via a tolta.co tracker ID.
+### Flexible TidByt counter to display your data via a tolta.co tracker ID.
 
 ## Show social & ecom numbers
 
