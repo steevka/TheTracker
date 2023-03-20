@@ -20,9 +20,9 @@ Data refreshes every 30 minutes.
 
 To use this app, create an account on https://tolta.co/ and link your desired accounts. Use one tracker ID per Tidbyt screen.
 
-One tracker is free forever. A paid account is required for more.
+One tracker is free forever. A paid account is required for more trackers.
 
-Instagram has not been working on tolta.co for some time. Sorry! Nothing I can do about that. The logo looks sexy so I kept it.
+Instagram has not been working on tolta.co for some time. Sorry! Nothing I can do about that. The logo looks sexy though so I kept it in the app.
 
 ## Site - Feature - Status
 
