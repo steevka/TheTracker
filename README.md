@@ -6,11 +6,9 @@
 
 Twitter, YouTube, Ghost, Chart Mogul, Gumroad, Paddle, and Clubhouse.
 
-Instagram is not working on tolta.co and has not been for some time. Sorry! Nothing I can do about that.
+Instagram is not working on tolta.co and has not been for some time. Sorry! Nothing I can do about that. The logo looks sexy though.
 
-I still added the instagram icon as a tease because it looks great.
-
-As "live" as possible, though tolta.co only refreshes data every 30 minutes.
+Note that tolta.co refreshes data every 30 minutes.
 
 ## Flexible layout, number formatting, colors, icons, and font
 
