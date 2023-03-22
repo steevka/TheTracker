@@ -70,10 +70,10 @@ Needs testing
 
 ## Ongoing
 
-Happy to add any additonal icons! Most I am using are 16px, very few are 12px. Feel free to send me your desired icon in PNG or Base64.
+Happy to add any additonal icons! Most icons are 16px for consistency. A few are 12px. Feel free to send me your desired icon in PNG or Base64.
 
 Twitter politely asks to not use their icon in any setting smaller than 16px, so a smaller Twitter icon is off the table.
 
 If you want to find your own icon, I suggest icons8.com's Tiny Color collection: https://icons8.com/icons/tiny-color. These are all 16px pixel perfect icons.
 
-Happy to add addional colors too! Send me a hex color code, a color name of your choosing, and a lymrick please :)
+Happy to add addional colors too! Send me a hex color code and your preffered color name :) Also send me a lymrick if you want.
