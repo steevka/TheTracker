@@ -16,7 +16,7 @@ Data refreshes every 30 minutes.
 
 ![Screenshot3](_img3.png)
 
-## About tolta.co
+## About this app and tolta.co
 
 To use this app, create an account on https://tolta.co/ and link your desired account to your dashboard on their site. Open your tracker and copy the tracker ID into the "Tracker ID" field of this Tidbyt app. One tolta.co tracker per Tidbyt screen. Add multiple screens to show multiple trackers. 
 
