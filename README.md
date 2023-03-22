@@ -18,7 +18,9 @@ Data refreshes every 30 minutes.
 
 ## About tolta.co
 
-To use this app, create an account on https://tolta.co/ and link your desired accounts. Use one tracker ID per Tidbyt screen.
+To use this app, create an account on https://tolta.co/ and link your desired account to your dashboard on their site. Open your tracker and copy the tracker ID into the "Tracker ID" field of this Tidbyt app. One tolta.co tracker per Tidbyt screen. Add multiple screens to show multiple trackers. 
+
+Your tracker should look like this: 2063b7a15415799b999f1b7382d4a139
 
 One tracker is free forever. A paid account is required for more trackers.
 
