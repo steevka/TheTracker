@@ -18,9 +18,9 @@ Data refreshes every 60 minutes.
 
 ## About this app and ilo.so
 
-To use this app, create an account on https://ilo.so/ (creator is Dan Rowden) and link your desired account to your dashboard on their site. Open your dashboard and copy the Counter ID into the "Counter ID" field of this Tidbyt app. One ilo.so tracker per Tidbyt screen. Add multiple screens to show multiple trackers. 
+To use this app, create an account on https://ilo.so/ (creator Dan Rowden) and link your desired account to your dashboard on their site. Open your dashboard and copy the Counter ID into the "Counter ID" field of this Tidbyt app. One ilo.so tracker per Tidbyt screen. Add multiple screens to show multiple trackers. 
 
-Your tracker should look like this: m1dlbolq
+Your Counter ID will look similar to this: m1dlbolq
 
 ## Ongoing
 
