@@ -1,7 +1,7 @@
 """
 Applet: The Tracker
-Summary: Social & sales numbers
-Description: Flexible counter to display any of your data supported by an ilo.so counter. Stats from X, YouTube, TikTok, Ghost, Kit, Stripe, ChartMogul, Paddle, and more!
+Summary: Show your internet stats
+Description: Flexible counter to display your numbers via ilo.so: X, YouTube, TikTok, Bluesky, Ghost, Kit, and more!
 Author: Steve Rybka
 """
 
