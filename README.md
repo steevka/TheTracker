@@ -1,10 +1,10 @@
 # The Tracker
 
-### Flexible Tidbyt counter to display your data via an ilo.so Counter ID.
+### Flexible Tidbyt counter to display your numbers via an ilo.so Counter ID.
 
 ## Show social & sales numbers
 
-X, YouTube, TikTok, Ghost, Chart Mogul, Beehiiv, Kit, Paddle, Stripe, Fathom Analytics, Simple Analytics, and more.
+X, YouTube, TikTok, Bluesky, Ghost, Chart Mogul, Beehiiv, Kit, Paddle, Stripe, Fathom Analytics, Simple Analytics, and more.
 
 Data refreshes every 60 minutes.
 
