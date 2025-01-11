@@ -23,6 +23,7 @@ DEFAULT_FORMAT = "Full"
 DEFAULT_ICON = """iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAABLUlEQVR4nK1SPUsDQRBdd3JaWSkWdlYWdiL4MyzE3k7xB9gKNlqk0FIQLMTL2xM/Ku38ARFJZy9iIQEh9+ZQJLhyBpJcvFwSyMCwMLPv7XuzY8xYwvuJQVeCkEtSSdZM1FhsF0988Hdax6pFvJOLjPykQCFOfTuh5wLui9NnYy7i2VaRTRvpZi/eQvcy4K604L0JoMs9jbK5rU93CFjLJQCbKdaUwmQ150JdwMPUszi+9SF4bT1xxTkBf/rJLJBf6/h0rI5OoJdtAkG8PjKBS7Yz0xanlaEJoDTXjZl//20db4Yj4EH+ukVe0maxdD6ZOz+VXVFwwyLZEvBUnH4UTj5M5rPewbPBsvkt0OPuBctEKUxWBHpkHR8F+i7gl4Av1umDhe6a6HMh3/MY4hcwAZqpRCof8AAAAABJRU5ErkJggg=="""
 DEFAULT_MULTIPLY_BY_12 = False  
 DEFAULT_ADD_DOLLAR_SIGN = False
+DEFAULT_SHOW_COMMA = True
 
 def render_error():
     return render.Root(
@@ -39,10 +40,10 @@ def main(config):
     icon = base64.decode(config.get("icon", DEFAULT_ICON))
     multiply_by_12 = config.str("multiply_by_12", "false") == "true"
     add_dollar_sign = config.str("add_dollar_sign", "false") == "true"  # New toggle for dollar sign
-
+    show_comma = config.str("show_comma", "true") == "true"  # New toggle for commas
 
     # Cache checker
-    cache_key = code + "_multiplier_" + str(multiply_by_12) + str(add_dollar_sign)  # Create a unique cache key based on multiplier
+    cache_key = code + "_multiplier_" + str(multiply_by_12) + str(add_dollar_sign) + "_comma_" + str(show_comma)  # Create a unique cache key based on multiplier
     cached_data = cache.get(cache_key)
 
     if cached_data != None:
@@ -65,15 +66,18 @@ def main(config):
             if multiply_by_12:
                 count_value *= 12
 
-            # Format the count with human-readable commas
-            humanized_count = humanize.comma(count_value)
+            # Format the count with or without commas based on the toggle
+            if show_comma:
+                formatted_count = humanize.comma(count_value)
+            else:
+                formatted_count = str(count_value)
 
             # Prepend the dollar sign if the toggle is enabled
             if add_dollar_sign:
-                humanized_count = "$" + humanized_count
+                formatted_count = "$" + formatted_count
 
-            # Use the humanized count as the body content
-            body_content = humanized_count
+            # Use the formatted count as the body content
+            body_content = formatted_count
 
             # Cache the result with a unique key
             cache.set(cache_key, body_content, CACHE_TTL)
@@ -261,6 +265,13 @@ def get_schema():
                 desc = "The icon to display",
                 options = icons,
                 default = DEFAULT_ICON,
+            ),
+            schema.Toggle(
+                id="show_comma",
+                icon="toggle-on",
+                name="Show Comma",
+                desc="Enable commas in the number display",
+                default=DEFAULT_SHOW_COMMA,
             ),
             schema.Toggle(
                 id = "multiply_by_12",
