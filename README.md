@@ -1,6 +1,6 @@
 # The Tracker
 
-### Flexible TidByt counter to display your data via an ilo.so Counter ID.
+### Flexible Tidbyt counter to display your data via an ilo.so Counter ID.
 
 ## Show social & ecom numbers
 
