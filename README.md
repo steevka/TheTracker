@@ -30,4 +30,4 @@ X politely asks to not use their icon in any setting smaller than 16px, so a sma
 
 If you want to find your own icon, I suggest icons8.com's Tiny Color collection: https://icons8.com/icons/tiny-color. These are all 16px pixel perfect icons.
 
-Happy to add addional colors too! Send me a hex color code and your preffered color name.
+Happy to add addional colors too! Send me a hex color code and your preferred color name.
