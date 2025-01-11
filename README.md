@@ -2,7 +2,7 @@
 
 ### Flexible Tidbyt counter to display your data via an ilo.so Counter ID.
 
-## Show social & ecom numbers
+## Show social & sales numbers
 
 X, YouTube, TikTok, Ghost, Chart Mogul, Beehiiv, Kit, Paddle, Stripe, Fathom Analytics, Simple Analytics, and more.
 
